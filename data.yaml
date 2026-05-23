@@ -1,0 +1,18 @@
+train: /mnt/c/Users/T-GAMER/Desktop/dataset/images/train
+val: /mnt/c/Users/T-GAMER/Desktop/dataset/images/val
+test: /mnt/c/Users/T-GAMER/Desktop/dataset/images/test
+
+nc: 11
+
+names:
+  0: 5 centavos
+  1: 10 centavos
+  2: 25 centavos
+  3: 50 centavos
+  4: 1 real
+  5: 2 reais
+  6: 5 reais
+  7: 10 reais
+  8: 20 reais
+  9: 100 reais
+  10: 200 reais
